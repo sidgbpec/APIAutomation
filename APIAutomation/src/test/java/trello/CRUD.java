@@ -81,6 +81,7 @@ public class CRUD {
 							then().assertThat().statusCode(200).extract().response();
 		JsonPath jsonpath = new JsonPath(response.asString());
 		System.out.println("name while reading the board "+jsonpath.get("name"));
+		System.out.println("Siddharth updated something "+jsonpath.get("name"));
 		System.out.println("description while reading the board "+jsonpath.get("desc"));
 		System.out.println("color while reading the board "+jsonpath.get("prefs.background"));
 	}
