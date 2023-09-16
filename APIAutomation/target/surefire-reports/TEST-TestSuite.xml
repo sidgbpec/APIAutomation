@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="69.56" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Siddharth Barthwal\eclipse-workspace\APIAutomation\target\test-classes;C:\Users\Siddharth Barthwal\eclipse-workspace\APIAutomation\target\classes;C:\Users\Siddharth Barthwal\.m2\repository\org\testng\testng\7.8.0\testng-7.8.0.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Siddharth Barthwal\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\io\rest-assured\rest-assured\5.3.1\rest-assured-5.3.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\groovy\groovy\4.0.11\groovy-4.0.11.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\groovy\groovy-xml\4.0.11\groovy-xml-4.0.11.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Siddharth Barthwal\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\io\rest-assured\xml-path\5.3.1\xml-path-5.3.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\Siddharth Barthwal\.m2\repository\io\rest-assured\json-path\5.3.1\json-path-5.3.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\groovy\groovy-json\4.0.11\groovy-json-4.0.11.jar;C:\Users\Siddharth Barthwal\.m2\repository\io\rest-assured\rest-assured-common\5.3.1\rest-assured-common-5.3.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\Siddharth Barthwal\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Siddharth Barthwal\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Siddharth Barthwal\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
+    <property name="sun.java.command" value="C:\Users\Siddharth Barthwal\AppData\Local\Temp\surefire2164896259240532905\surefirebooter-20230916162832454_3.jar C:\Users\Siddharth Barthwal\AppData\Local\Temp\surefire2164896259240532905 2023-09-16T16-28-29_641-jvmRun1 surefire-20230916162832454_1tmp surefire_0-20230916162832454_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Siddharth Barthwal\eclipse-workspace\APIAutomation\target\test-classes;C:\Users\Siddharth Barthwal\eclipse-workspace\APIAutomation\target\classes;C:\Users\Siddharth Barthwal\.m2\repository\org\testng\testng\7.8.0\testng-7.8.0.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Siddharth Barthwal\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\io\rest-assured\rest-assured\5.3.1\rest-assured-5.3.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\groovy\groovy\4.0.11\groovy-4.0.11.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\groovy\groovy-xml\4.0.11\groovy-xml-4.0.11.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Siddharth Barthwal\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\io\rest-assured\xml-path\5.3.1\xml-path-5.3.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\Siddharth Barthwal\.m2\repository\io\rest-assured\json-path\5.3.1\json-path-5.3.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\groovy\groovy-json\4.0.11\groovy-json-4.0.11.jar;C:\Users\Siddharth Barthwal\.m2\repository\io\rest-assured\rest-assured-common\5.3.1\rest-assured-common-5.3.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\Siddharth Barthwal\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Siddharth Barthwal\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\Siddharth Barthwal\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Siddharth Barthwal\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Siddharth Barthwal"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Siddharth Barthwal\eclipse-workspace\APIAutomation"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Siddharth Barthwal\AppData\Local\Temp\surefire2164896259240532905\surefirebooter-20230916162832454_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.18+9-LTS-195"/>
+    <property name="user.name" value="Siddharth Barthwal"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\Siddharth Barthwal\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\SIDDHA~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.18"/>
+    <property name="user.dir" value="C:\Users\Siddharth Barthwal\eclipse-workspace\APIAutomation"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Siddharth Barthwal\AppData\Local\Android\Sdk\tools\bin;C:\Users\Siddharth Barthwal\AppData\Local\Android\Sdk\platform-tools;C:\Users\Siddharth Barthwal\AppData\Local\Android\Sdk\tools;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\Siddharth Barthwal\AppData\Roaming\Scripts\;C:\Users\Siddharth Barthwal\AppData\Roaming\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\System32;C:\Windows;%CLASSPATH%;C:\Program Files\apache-maven-3.8.1\bin;C:\gatling\gatling-charts-highcharts-bundle-3.5.1\bin;C:\Python\Scripts;C:\Python\Lib;C:\Python\libs;C:\Python\DLLs;C:\Python\Lib\site-packages;;C:\strawberry\c\bin;C:\strawberry\perl\bin;C:\Program Files;C:\Program Files\apache-maven-3.8.1\bin;C:\Windows\System32\Coreinfo;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Users\Siddharth Barthwal\AppData\Local\Android\Sdk\tools\bin;C:\Users\Siddharth Barthwal\AppData\Local\Android\Sdk\platform-tools;C:\Users\Siddharth Barthwal\AppData\Local\Android\Sdk\tools;C:\Program Files\nodejs\;C:\cygwin64\bin;E:\drivers\geckodriver-v0.33.0-win64\geckodriver.exe;E:\drivers\chromedriver_win32\chromedriver.exe;E:\Firefox.exe;C:\Python;C:\Python\Scripts;C:\Program Files\nodejs\node_modules\npm\bin;C:\Users\Siddharth Barthwal\AppData\Roaming\npm\chromedriver.exe;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Program Files\Common Files\Oracle\Java\javapath\java.exe;C:\Program Files\Scripts\;C:\Program Files\;C:\Program Files\JetBrains\PyCharm 2021.1.1\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2023.2\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.1\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin;C:\Users\Siddharth Barthwal\AppData\Roaming\npm;C:\Users\Siddharth Barthwal\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Siddharth Barthwal\.dotnet\tools;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.18+9-LTS-195"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="dataDrivenSetup" classname="trello.CRUD" time="56.623">
+    <system-out><![CDATA[3
+Siddharth
+pink
+id of newly created trello board is 65058a94fa1136a580a69944
+name at the time of creation defaultname
+name while reading the board defaultname
+description while reading the board 
+color while reading the board blue
+name while reading the board Siddharth
+description while reading the board updatedmy board
+color while reading the board orange
+name while reading the board Siddharth
+description while reading the board updatedmy board
+color while reading the board orange
+Shyam
+red
+id of newly created trello board is 65058a9f3c10334bd23aaa07
+name at the time of creation defaultname
+name while reading the board defaultname
+description while reading the board 
+color while reading the board blue
+name while reading the board Shyam
+description while reading the board updatedshyam board
+color while reading the board orange
+name while reading the board Shyam
+description while reading the board updatedshyam board
+color while reading the board orange
+Varun
+green
+id of newly created trello board is 65058aa49c0bb5e808ac2c0e
+name at the time of creation defaultname
+name while reading the board defaultname
+description while reading the board 
+color while reading the board blue
+name while reading the board Varun
+description while reading the board updatedvarun board
+color while reading the board orange
+name while reading the board Varun
+description while reading the board updatedvarun board
+color while reading the board orange
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+]]></system-err>
+  </testcase>
+</testsuite>
