@@ -46,6 +46,7 @@ public class CRUD {
 			read_a_Board();
 			update_a_Board();
 			read_a_Board();
+			delete_a_Board();
 		}
 		workbook.close();
 	}

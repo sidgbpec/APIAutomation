@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="trello.CRUD">
+      <class name="trello.SimpleBooks">
         <methods>
-          <include name="create_a_Board"/>
+          <include name="updateAnOrder"/>
         </methods>
-      </class> <!-- trello.CRUD -->
+      </class> <!-- trello.SimpleBooks -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
