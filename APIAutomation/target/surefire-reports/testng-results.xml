@@ -1,17 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-16T16:28:54 IST" name="Suite" finished-at="2023-09-16T16:29:51 IST" duration-ms="57115">
+  <suite started-at="2023-09-17T18:20:00 IST" name="Suite" finished-at="2023-09-17T18:20:41 IST" duration-ms="40503">
     <groups>
     </groups>
-    <test started-at="2023-09-16T16:28:54 IST" name="Test" finished-at="2023-09-16T16:29:51 IST" duration-ms="57115">
+    <test started-at="2023-09-17T18:20:00 IST" name="Test" finished-at="2023-09-17T18:20:41 IST" duration-ms="40503">
       <class name="trello.CRUD">
-        <test-method signature="dataDrivenSetup()[pri:0, instance:trello.CRUD@5d7148e2]" started-at="2023-09-16T16:28:54 IST" name="dataDrivenSetup" finished-at="2023-09-16T16:29:51 IST" duration-ms="56596" status="PASS">
+        <test-method signature="dataDrivenSetup()[pri:0, instance:trello.CRUD@593aaf41]" started-at="2023-09-17T18:20:01 IST" name="dataDrivenSetup" finished-at="2023-09-17T18:20:30 IST" duration-ms="28854" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dataDrivenSetup -->
       </class> <!-- trello.CRUD -->
+      <class name="trello.SimpleBooks">
+        <test-method signature="Authentication()[pri:0, instance:trello.SimpleBooks@6404f418]" started-at="2023-09-17T18:20:30 IST" name="Authentication" finished-at="2023-09-17T18:20:31 IST" duration-ms="1712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Authentication -->
+        <test-method signature="SubmitAnOrder()[pri:1, instance:trello.SimpleBooks@6404f418]" started-at="2023-09-17T18:20:31 IST" name="SubmitAnOrder" finished-at="2023-09-17T18:20:33 IST" duration-ms="1581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitAnOrder -->
+        <test-method signature="getListOfBooks()[pri:2, instance:trello.SimpleBooks@6404f418]" started-at="2023-09-17T18:20:33 IST" name="getListOfBooks" finished-at="2023-09-17T18:20:34 IST" duration-ms="1275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfBooks -->
+        <test-method signature="getABookById()[pri:3, instance:trello.SimpleBooks@6404f418]" started-at="2023-09-17T18:20:34 IST" name="getABookById" finished-at="2023-09-17T18:20:36 IST" duration-ms="1385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getABookById -->
+        <test-method signature="getAllOrders()[pri:4, instance:trello.SimpleBooks@6404f418]" started-at="2023-09-17T18:20:36 IST" name="getAllOrders" finished-at="2023-09-17T18:20:37 IST" duration-ms="1319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllOrders -->
+        <test-method signature="getAnOrder()[pri:5, instance:trello.SimpleBooks@6404f418]" started-at="2023-09-17T18:20:37 IST" name="getAnOrder" finished-at="2023-09-17T18:20:38 IST" duration-ms="1170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAnOrder -->
+        <test-method signature="updateAnOrder()[pri:6, instance:trello.SimpleBooks@6404f418]" started-at="2023-09-17T18:20:38 IST" name="updateAnOrder" finished-at="2023-09-17T18:20:41 IST" duration-ms="2731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAnOrder -->
+      </class> <!-- trello.SimpleBooks -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
